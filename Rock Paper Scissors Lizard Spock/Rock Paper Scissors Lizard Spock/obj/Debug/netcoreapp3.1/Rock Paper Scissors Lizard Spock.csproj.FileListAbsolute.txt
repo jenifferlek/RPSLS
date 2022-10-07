@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\bin\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.exe
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\bin\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.deps.json
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\bin\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.runtimeconfig.json
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\bin\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\bin\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.dll
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\bin\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.pdb
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\obj\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\obj\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\obj\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\obj\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\obj\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.dll
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\obj\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.pdb
+C:\Users\Acer\source\repos\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\obj\Debug\netcoreapp3.1\Rock Paper Scissors Lizard Spock.genruntimeconfig.cache
